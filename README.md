@@ -1,6 +1,9 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+STRING_MAKER
+
+## Info
+This project is a C library named libstrmaker.a that provides a set of functions for string manipulation and conversion. The main function, strmaker, allows you to expand a string with different types of data, including strings, characters, integers, unsigned integers, hexadecimal numbers, pointers, and percent symbols.
 
 ## Installation
 
